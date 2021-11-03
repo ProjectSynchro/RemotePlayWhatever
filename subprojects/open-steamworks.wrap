@@ -1,0 +1,8 @@
+[wrap-git]
+url = https://github.com/ProjectSynchro/open-steamworks.git
+revision = head
+
+patch_directory = open-steamworks
+
+[provide]
+OpenSteamAPI = OpenSteamAPI_dep
